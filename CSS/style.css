@@ -1,0 +1,203 @@
+        h2{
+            color: teal;
+            font-size: 2em;
+            font-family: cursive;
+            font-style: italic;
+            text-align: center;
+            text-decoration: underline;
+            text-transform: capitalize;
+        }
+        h3{
+            color: hotpink;
+            text-transform: capitalize;
+            text-align: center;
+        }
+        nav{
+            text-align: center;
+        }
+        p{
+            font-size:1.2em;
+            font-family: cursive;
+        }
+        ul{
+            font-style:italic;
+        }
+        body{
+            background-color:#FADADD;
+        }
+        a{
+            color:purple;
+        }
+        table{
+            background-color: ivory;
+            margin-left: 300px;
+            border-width: 5px;
+            border-style: solid;
+            border-color: teal;
+        }
+        td{
+            text-align: center;
+        }
+        form{
+            background-color: ivory;
+            padding: 15px;
+            width: 300px;
+            border-width: 5px;
+            border-style: solid;
+            border-color: hotpink;
+            padding-left: 30px;
+            margin-left: 450px;
+            margin-top: 50px;
+        }
+        input[type=button]:hover{
+            background-color: #FADADD;
+        }
+        input[type=text]:focus{
+            background-color: #FADADD;
+        }
+        input[type=text]{
+            color: hotpink;
+        }
+        .favlist{
+            color: teal;
+            margin-left: 80px;
+            font-weight: bold;
+        }
+        #favhob{
+            color: #0F87FF;
+            font-weight: bold;
+        }
+        #favshow{
+            color: teal;
+            font-weight: bold;
+        }
+        #favcol{
+            color: hotpink;
+            font-weight: bold;
+        }
+        #beaches{
+            color: #0F87FF;
+        }
+        #div2{
+            margin-top: 200;
+            margin-left: 200px;
+            margin-right: 200px;
+        }
+        #div4{
+            margin-top: 50px;
+            margin-left: 120px;
+            margin-right: 70px;
+            position: relative;
+        }
+        #div6{
+            margin-top: 20px;
+            margin-left: 120px;
+            margin-right: 70px;
+            position: relative;
+        }
+        #div7{
+            background-color: ivory;
+            width: 300px;
+            border-width: 5px;
+            border-style: solid;
+            border-color: hotpink;
+            padding-left: 20px;
+            padding-right: 20px;
+            padding-bottom: 20px;
+            padding-top: 20px;
+            margin-left: 470px;
+            margin-top: 50px;
+            position: static;
+        }
+        #div7:hover{
+            background-color: purple;
+        }
+        #div10{
+            text-align: center;
+            margin-top: 30px;
+        }
+        #div11{
+            margin-top: 200;
+            margin-left: 200px;
+            margin-right: 200px;
+        }
+        #div12{
+            margin-left: 20px;
+            position: relative;
+            display: inline;
+        }
+        #div13{
+            position: relative;
+            display: inline;
+        }
+        #gucci{
+            color: teal;
+            font-weight: bold;
+            font-style: italic; 
+            background-color: ivory;
+            border-width: 2px;
+            border-style: solid;
+            border-color: teal;
+            display: inline-block;
+        }
+        #gnungi{
+            color: hotpink;
+            font-weight: bold;
+            font-style: italic;
+            background-color: ivory;
+            border-width: 2px;
+            border-style: solid;
+            border-color: hotpink;
+            margin-left: 382px;
+            display: inline-block;
+        }
+        #gorda{
+            color: purple;
+            font-weight: bold;
+            font-style: italic;
+            background-color: ivory;
+            border-width: 2px;
+            border-style: solid;
+            border-color: purple;
+            margin-left: 371px;
+            display: inline-block;
+        }
+        #pic1{
+            border-width: 5px;
+            border-style: solid;
+            border-color: teal;
+            border-radius: 50%;
+            margin-right: 200px;
+            margin-left: 20px;
+            position: relative;
+        }
+        #pic2{
+            border-width: 5px;
+            border-style: dotted;
+            border-color: hotpink;
+            border-radius: 50%;
+            position: relative;
+        }
+        #pic3{
+            margin-left: 190px;
+            border-width: 5px;
+            border-style: groove;
+            border-color: purple;
+            border-radius: 50%;
+            position: relative;
+        }
+        #savage{
+            color: teal;
+            display: inline;
+        }
+        #sassy{
+            color: hotpink;
+            margin-left: 420px;
+            display: inline;
+        }
+        #sweet{
+            color: purple;
+            margin-left: 400px;
+            display: inline;
+        }
+        
