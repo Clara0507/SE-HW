@@ -45,10 +45,11 @@
             border-width: 5px;
             border-style: solid;
             border-color: hotpink;
-            padding-left: 30px;
+            padding-left: 10px;
             margin-left: 450px;
             margin-top: 50px;
             margin-bottom: 50px;
+            text-align: center;
         }
         input[type=button]:hover{
             background-color: #FADADD;
