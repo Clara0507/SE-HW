@@ -48,6 +48,7 @@
             padding-left: 30px;
             margin-left: 450px;
             margin-top: 50px;
+            margin-bottom: 50px;
         }
         input[type=button]:hover{
             background-color: #FADADD;
@@ -77,6 +78,10 @@
         }
         #beaches{
             color: #0F87FF;
+        }
+        #drbeach{
+            text-align: center;
+            margin-top: 0px;
         }
         #div2{
             margin-top: 200;
@@ -112,10 +117,6 @@
         #div7:hover{
             background-color: purple;
         }
-        #div10{
-            text-align: center;
-            margin-top: 30px;
-        }
         #div11{
             margin-top: 200;
             margin-left: 200px;
@@ -129,6 +130,9 @@
         #div13{
             position: relative;
             display: inline;
+        }
+        #div15{
+            text-align: center;
         }
         #gucci{
             color: teal;
@@ -186,6 +190,10 @@
             border-radius: 50%;
             position: relative;
         }
+        #pic4{
+            margin-top: 30px;
+            margin-left: 400px;
+        }
         #savage{
             color: teal;
             display: inline;
@@ -200,4 +208,15 @@
             margin-left: 400px;
             display: inline;
         }
+        #phone{
+            display: inline;
+        }
+        #email{
+            display: inline;
+            margin-left: 10px;
+        }
+        #aboutme{
+            margin-bottom: 5px;
+        }
+
         
